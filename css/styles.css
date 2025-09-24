@@ -26,10 +26,24 @@ li {
 
 .logo-dark {
   color: #2e2f42;
+  font-family: "Raleway", sans-serif;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
 
 .logo-light {
   color: #f4f4fd;
+  font-family: "Raleway", sans-serif;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
 
 .main-nav {
@@ -56,6 +70,7 @@ li {
 }
 
 .nav-contacts {
+  color: #434455;
   text-decoration: none;
   font-size: 16px;
   line-height: 1.5;
@@ -188,13 +203,13 @@ li {
 }
 
 .portfolio-item {
-  width: 360px;
   /* border: 1px solid #e7e9fc;
-  
+    width: 360px;
   height: 420px; */
 }
 
 .portfolio-item-img {
+  width: 360px;
   /* width: 360px;
   height: 300px; */
 }
