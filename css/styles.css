@@ -78,6 +78,10 @@ li {
   font-style: normal;
 }
 
+.contacts-link {
+  color: #434455;
+}
+
 .contacts-link:hover,
 .contacts-link:focus {
   color: #404bbf;
@@ -196,7 +200,6 @@ li {
 }
 
 .portfolio-item-img {
-  width: 360px;
 }
 
 .portfolio-item-title {
