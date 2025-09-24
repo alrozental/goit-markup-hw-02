@@ -1,6 +1,6 @@
 body {
   font-family: "Roboto", sans-serif;
-  color: #2e2f42;
+  color: #434455;
   background-color: rgb(255, 255, 255);
 }
 
@@ -19,29 +19,17 @@ li {
   color: #4d5ae5;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 
 .logo-dark {
-  font-family: "Raleway", sans-serif;
   color: #2e2f42;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 1.16667;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
 }
 
 .logo-light {
-  font-family: "Raleway", sans-serif;
   color: #f4f4fd;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 1.16667;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
 }
 
 .main-nav {
@@ -62,9 +50,13 @@ li {
   color: #404bbf;
 }
 
+.contacts {
+  font-style: normal;
+  color: #434455;
+}
+
 .nav-contacts {
   text-decoration: none;
-  color: #434455;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -84,7 +76,7 @@ li {
   color: #ffffff;
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.07143;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
 }
@@ -108,13 +100,13 @@ li {
 }
 
 .benefits-cards {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  /* display: grid;
+  grid-template-columns: repeat(4, 1fr); */
 }
 
 .benefits-item {
-  width: 264px;
-  height: 104px;
+  /* width: 264px;
+  height: 104px; */
 }
 
 .benefits-item-title {
@@ -140,20 +132,21 @@ li {
   color: #2e2f42;
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
+  text-transform: capitalize;
 }
 
 .team-cards {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  /* display: grid;
+  grid-template-columns: repeat(4, 1fr); */
 }
 
 .team-item {
   background-color: #ffffff;
-  width: 264px;
-  height: 380px;
+  /* width: 264px;
+  height: 380px; */
 }
 
 .team-item-img {
@@ -183,25 +176,27 @@ li {
   color: #2e2f42;
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
+  text-transform: capitalize;
   text-align: center;
 }
 
 .portfolio-cards {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  /* display: grid;
+  grid-template-columns: repeat(3, 1fr); */
 }
 
 .portfolio-item {
-  border: 1px solid #e7e9fc;
   width: 360px;
-  height: 420px;
+  /* border: 1px solid #e7e9fc;
+  
+  height: 420px; */
 }
 
 .portfolio-item-img {
-  width: 360px;
-  height: 300px;
+  /* width: 360px;
+  height: 300px; */
 }
 
 .portfolio-item-title {
@@ -228,6 +223,6 @@ li {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  width: 264px;
-  height: 72px;
+  /* width: 264px;
+  height: 72px; */
 }
