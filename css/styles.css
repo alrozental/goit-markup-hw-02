@@ -115,13 +115,9 @@ li {
 }
 
 .benefits-cards {
-  /* display: grid;
-  grid-template-columns: repeat(4, 1fr); */
 }
 
 .benefits-item {
-  /* width: 264px;
-  height: 104px; */
 }
 
 .benefits-item-title {
@@ -154,14 +150,10 @@ li {
 }
 
 .team-cards {
-  /* display: grid;
-  grid-template-columns: repeat(4, 1fr); */
 }
 
 .team-item {
   background-color: #ffffff;
-  /* width: 264px;
-  height: 380px; */
 }
 
 .team-item-img {
@@ -198,20 +190,13 @@ li {
 }
 
 .portfolio-cards {
-  /* display: grid;
-  grid-template-columns: repeat(3, 1fr); */
 }
 
 .portfolio-item {
-  /* border: 1px solid #e7e9fc;
-    width: 360px;
-  height: 420px; */
 }
 
 .portfolio-item-img {
   width: 360px;
-  /* width: 360px;
-  height: 300px; */
 }
 
 .portfolio-item-title {
@@ -238,6 +223,4 @@ li {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  /* width: 264px;
-  height: 72px; */
 }
